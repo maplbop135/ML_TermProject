@@ -6,6 +6,6 @@ This is a term project for Machine Learning(ITP40010), Handong Global University
 
 I recommand to use Google Colab: https://colab.research.google.com/
   
-  >Just search "maplbop135/ML_TermProject" on the GitHub tab when opening files.
+: Just search "maplbop135/ML_TermProject" on the GitHub tab when opening files.
 
 Codes written by maplbop135.
