@@ -8,4 +8,4 @@ I recommand to use Google Colab: https://colab.research.google.com/
   
 ▶ Just search "maplbop135/ML_TermProject" on the GitHub tab when opening files.
 
-Codes written by maplbop135.
+ⓒ Codes written by maplbop135.
